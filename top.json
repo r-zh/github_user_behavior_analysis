@@ -1,0 +1,52 @@
+[
+    {
+        "repo_num": 61455,
+        "timestamp": "2018-10-11T00:00:00",
+        "n1lang": "JavaScript",
+        "n1num": 7934,
+        "n2lang": "Java",
+        "n2num": 7006,
+        "n3lang": "HTML",
+        "n3num": 5795,
+        "n4lang": "Python",
+        "n4num": 4040,
+        "n5lang": "C#",
+        "n5num": 1985,
+        "n6lang": "CSS",
+        "n6num": 1799,
+        "n7lang": "C++",
+        "n7num": 1688,
+        "n8lang": "PHP",
+        "n8num": 1661,
+        "n9lang": "TypeScript",
+        "n9num": 1140,
+        "n10lang": "C",
+        "n10num": 1040
+    },
+    {
+        "repo_num": 127,
+        "timestamp": "2009-01-02T00:00:00",
+        "n1lang": "Ruby",
+        "n1num": 37,
+        "n2lang": "Python",
+        "n2num": 12,
+        "n3lang": "C",
+        "n3num": 10,
+        "n4lang": "JavaScript",
+        "n4num": 10,
+        "n5lang": "PHP",
+        "n5num": 5,
+        "n6lang": "Haskell",
+        "n6num": 4,
+        "n7lang": "C++",
+        "n7num": 3,
+        "n8lang": "Perl",
+        "n8num": 2,
+        "n9lang": "Vimscript",
+        "n9num": 2,
+        "n10lang": "C#",
+        "n10num": 1
+    }
+]
+
+
